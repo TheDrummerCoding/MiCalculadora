@@ -1,0 +1,15 @@
+C:\Users\percu\source\repos\CalculadoraTheDrummerCoding\CalculadoraTheDrummerCoding\bin\Debug\CalculadoraTheDrummerCoding.exe.config
+C:\Users\percu\source\repos\CalculadoraTheDrummerCoding\CalculadoraTheDrummerCoding\bin\Debug\CalculadoraTheDrummerCoding.exe
+C:\Users\percu\source\repos\CalculadoraTheDrummerCoding\CalculadoraTheDrummerCoding\bin\Debug\CalculadoraTheDrummerCoding.pdb
+C:\Users\percu\source\repos\CalculadoraTheDrummerCoding\CalculadoraTheDrummerCoding\obj\Debug\CalculadoraTheDrummerCoding.csprojAssemblyReference.cache
+C:\Users\percu\source\repos\CalculadoraTheDrummerCoding\CalculadoraTheDrummerCoding\obj\Debug\MainWindow.g.cs
+C:\Users\percu\source\repos\CalculadoraTheDrummerCoding\CalculadoraTheDrummerCoding\obj\Debug\App.g.cs
+C:\Users\percu\source\repos\CalculadoraTheDrummerCoding\CalculadoraTheDrummerCoding\obj\Debug\CalculadoraTheDrummerCoding_MarkupCompile.cache
+C:\Users\percu\source\repos\CalculadoraTheDrummerCoding\CalculadoraTheDrummerCoding\obj\Debug\CalculadoraTheDrummerCoding_MarkupCompile.lref
+C:\Users\percu\source\repos\CalculadoraTheDrummerCoding\CalculadoraTheDrummerCoding\obj\Debug\MainWindow.baml
+C:\Users\percu\source\repos\CalculadoraTheDrummerCoding\CalculadoraTheDrummerCoding\obj\Debug\CalculadoraTheDrummerCoding.g.resources
+C:\Users\percu\source\repos\CalculadoraTheDrummerCoding\CalculadoraTheDrummerCoding\obj\Debug\CalculadoraTheDrummerCoding.Properties.Resources.resources
+C:\Users\percu\source\repos\CalculadoraTheDrummerCoding\CalculadoraTheDrummerCoding\obj\Debug\CalculadoraTheDrummerCoding.csproj.GenerateResource.cache
+C:\Users\percu\source\repos\CalculadoraTheDrummerCoding\CalculadoraTheDrummerCoding\obj\Debug\CalculadoraTheDrummerCoding.csproj.CoreCompileInputs.cache
+C:\Users\percu\source\repos\CalculadoraTheDrummerCoding\CalculadoraTheDrummerCoding\obj\Debug\CalculadoraTheDrummerCoding.exe
+C:\Users\percu\source\repos\CalculadoraTheDrummerCoding\CalculadoraTheDrummerCoding\obj\Debug\CalculadoraTheDrummerCoding.pdb
